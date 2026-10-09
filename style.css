@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(243, 243, 243);
+}
+
+.climate-crisis {
+  font-family: "Climate Crisis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "YEAR" 1979;
+}
+
+.title {
+  color: rgb(49, 49, 49);
+  letter-spacing: 1px;
+  padding: 2vh 2vw;
+  font-size: 3.1vw;
+}
+
+.subtitle {
+  color: rgb(49, 49, 49);
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.3vw;
+  margin-left: 2vw;
+  margin-top: -1vh;
+}
