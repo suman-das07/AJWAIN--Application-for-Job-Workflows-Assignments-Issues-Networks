@@ -5,7 +5,7 @@
 }
 
 body {
-  background: rgb(243, 243, 243);
+  background: rgb(230, 230, 230);
 }
 
 .climate-crisis {
@@ -18,18 +18,27 @@ body {
 }
 
 .title {
-  color: rgb(49, 49, 49);
+  color: rgb(58, 58, 58);
   letter-spacing: 1px;
   padding: 2vh 2vw;
   font-size: 3.1vw;
 }
 
 .subtitle {
-  color: rgb(49, 49, 49);
+  color: rgb(58, 58, 58);
   font-family: "Space Mono", monospace;
   font-weight: 400;
   font-style: normal;
-  font-size: 1.3vw;
+  font-size: 1.1vw;
   margin-left: 2vw;
   margin-top: -1vh;
+}
+
+.cardlist{
+  width: auto;
+  background: black;
+  /* padding: 3vh 3vw; */
+  margin-top: 5vh;
+  margin-left:3vw;
+  
 }
