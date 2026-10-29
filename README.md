@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="assets/banner.svg" alt="AJWAIN – From Issues to Outcomes" width="100%" />
+<img src="banner.svg" alt="AJWAIN – From Issues to Outcomes" width="100%" />
 
 <br/>
 
